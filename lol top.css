@@ -55,9 +55,11 @@ header{
 .main-theme {
     color: #ffd700;
     font-size: 50px;
+    text-decoration:none;
 }
-
-
+.main-theme:hover{
+    opacity:0.7
+}
 
 footer{
     background-color: rgb(43, 10, 121);
