@@ -1,0 +1,65 @@
+body{
+    margin: 0%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    
+    
+}
+header{
+    background-color: rgb(43, 10, 121);
+    height: 60px;
+    width: 100%;
+}
+
+.fab{
+    font-size: 30px;
+    color: white;
+    float: left;
+    margin-left: 15px; 
+    margin-top: 25px; 
+    
+}
+.header-logo{
+   float: left;
+  font-size:25px ;
+  margin-top: 25px; 
+   margin-left: 20px;
+   color:#ffd700 ;   
+}
+.header-right{
+    float: right; 
+    transition: all 0.5s;
+    
+    
+}
+.header-right a{
+    color:white;
+    display: block;
+   padding: 20px 20px;
+    
+}
+.header-right:hover{
+    background-color: black;
+}
+
+.top-wrapper{
+    
+    background-image: url(https://1.bp.blogspot.com/-fLXGOfi4u34/XxcAYs_cUgI/AAAAAAABozk/YJJNVTYcWN01mYOCh9MSpPQqVy8FNJrtQCLcBGAsYHQ/s9999/Riven.jpg);
+    background-size: cover;
+    height: 850px;
+    text-align: center;
+      
+}  
+.theme{
+    padding:400px;
+} 
+.main-theme {
+    color: #ffd700;
+    font-size: 50px;
+}
+
+
+
+footer{
+    background-color: rgb(43, 10, 121);
+    padding: 30px;
+}
